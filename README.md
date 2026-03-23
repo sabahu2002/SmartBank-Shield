@@ -23,4 +23,5 @@ Source: uae_ecom_fraud_100k.csv
 
 ## How to run
 pip install -r requirements.txt
+
 Load uae_ecom_fraud_100k.csv and run notebook
